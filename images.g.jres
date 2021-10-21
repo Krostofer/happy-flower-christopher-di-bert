@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwDwAAAAAAAF/1AAAAAAAA//8AAAAA0N1f9d0NAADQ/f//3w0AAADwVVUPAAAAAAD//wAAAAAAAF/1AAAAAAAA8A8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "bee"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
